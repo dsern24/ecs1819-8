@@ -1,9 +1,9 @@
-body{background-image:linear-gradient(#FBDEFB,#FDEDEC) !important;}
+body{background-image:linear-gradient(#FDEDEC, white) !important;}
 .navbar-nav{text-align:center; font-family:Laila;}
 #bookjumbo{height:280px;text-align:center;font-family:Over The Rainbow;font-size:30px;color:white; background-image:url(https://elgarblog.files.wordpress.com/2014/01/education-books.jpg)}
 #showjumbo{height:280px;color:white; text-align:center;font-family:Over The Rainbow;font-size:30px; background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/vfPFP3W/movie-theater-film-reel-background-in-seamless-loop_xk6ivnb9__F0000.png)}
 #musicjumbo{height:280px;color:white;text-align:center; font-family:Over The Rainbow;font-size:30px;background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BDRgGZhcWj7oti21x/videoblocks-atmospheric-music-background-with-notes-on-old-brown-paper_byl_oll9g_thumbnail-full01.png)}
 #energyjumbo{color:white;height:280px;text-align:center; font-family:Over The Rainbow;font-size:30px;background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/RAvEnvn/electrical-energy-background-animation_ek51nxkf__F0000.png)}
-#genre{font-family:Rock Salt; font-size:19px;}
-#list1{font-family:Merienda; font-size:20px;border-style:double;}
+#genre{font-family:Over The Rainbow; font-size:23px;}
+#list1{font-family:The Girl Next Door; font-size:22px;border-style:double;}
 #space{color:transparent;}
